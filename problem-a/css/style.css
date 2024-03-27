@@ -10,7 +10,7 @@ p {
 
 /* Constrain the height of images */
 img {
-    max-width: 400px;
+    max-height: 400px;
 }
 
 /* Highlight an item as important with a class */
