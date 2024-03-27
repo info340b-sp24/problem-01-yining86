@@ -1,0 +1,19 @@
+body {
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Sets the line height for paragraphs */
+p {
+    line-height: 1.5;
+}
+
+/* Constrain the height of images */
+img {
+    max-width: 400px;
+}
+
+/* Highlight an item as important with a class */
+.highlight {
+    color:blueviolet; /* Or any color you choose to signify importance */
+}
