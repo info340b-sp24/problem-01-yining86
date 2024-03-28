@@ -8,12 +8,12 @@ p {
     line-height: 1.5;
 }
 
-/* Constrain the height of images */
+/* height of images */
 img {
     max-height: 400px;
 }
 
-/* Highlight an item as important with a class */
+/* Highlight the list as important with a class */
 .highlight {
-    color:blueviolet; /* Or any color you choose to signify importance */
+    color:blueviolet;
 }
